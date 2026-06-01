@@ -1,2 +1,4 @@
 Team project
 Version 3.2
+The feature B implemented.
+
